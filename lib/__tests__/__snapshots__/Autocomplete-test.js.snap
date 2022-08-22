@@ -2,7 +2,6 @@
 
 exports[`Autocomplete.props.renderInput should be invoked in \`render\` to create the <input> element 1`] = `
 Object {
-  "aria-activedescendant": "",
   "aria-autocomplete": "list",
   "aria-controls": "menu-suggestions-id",
   "foo": "bar",
@@ -34,7 +33,6 @@ exports[`Autocomplete.props.renderInput should be invoked in \`render\` to creat
   >
     <div>
       <input
-        aria-activedescendant=""
         aria-autocomplete="list"
         aria-controls="menu-suggestions-id"
         autoComplete="on"
